@@ -15,8 +15,7 @@
 ## 🚀 Featured Project
 
 ### 🔹 [JC Analytics](https://jc-analytics.streamlit.app/)
-AI powered energy analytics platform processing 17.5M+ data points across 1,600+ buildings to detect anomalies and deliver actionable insights.  
-Built using machine learning models, scalable data pipelines, and interactive dashboards for real world decision making.
+A smart building analytics platform that monitors energy, water, heating and cooling systems across 1,636 commercial buildings. Detects anomalies, surfaces insights, and lets operators ask questions in plain English via an AI assistant.
 
 
 ## 🛠 Core Skills
