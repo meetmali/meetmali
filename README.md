@@ -2,17 +2,15 @@
 
 - 🎓 Graduate student in Information Management at UIUC and a software engineer building innovative, AI driven products that help businesses solve complex problems and make strategic decisions  
 
----
 
 ## 💼 Work Experience
 
-- 🌐 **Web Developer** @ School of Information, UIUC  
+- 🌐 **Web Developer** @ School of Information Sciences, UIUC  
   Contributing to building and redesigning the university’s official website  
 
 - 💻 **Software Developer** @ Business Intelligence Group, UIUC  
   Building AI system for healthcare contract analysis, document processing, and claims validation  
 
----
 
 ## 🚀 Featured Project
 
@@ -20,7 +18,6 @@
 AI powered energy analytics platform processing 17.5M+ data points across 1,600+ buildings to detect anomalies and deliver actionable insights.  
 Built using machine learning models, scalable data pipelines, and interactive dashboards for real world decision making.
 
----
 
 ## 🛠 Core Skills
 
