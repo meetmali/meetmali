@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Meet
 
-- 🎓 Graduate student in Information Management at UIUC and a software engineer building innovative, AI driven products that help businesses solve complex problems and make strategic decisions  
+- 🎓 Graduate student in Information Management at UIUC and an AI Engineer building innovative, AI driven products that help businesses solve complex problems and make strategic decisions  
 
 
 ## 💼 Work Experience
