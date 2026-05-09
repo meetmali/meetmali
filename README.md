@@ -12,12 +12,6 @@
   Building AI system for healthcare contract analysis, document processing, and claims validation  
 
 
-## 🚀 Featured Project
-
-### 🔹 [JC Analytics](https://jc-analytics.streamlit.app/)
-A smart building analytics platform that monitors energy, water, heating and cooling systems across 1,636 commercial buildings. Detects anomalies, surfaces insights, and lets operators ask questions in plain English via an AI assistant.
-
-
 ## 🛠 Core Skills
 
 - 🤖 Machine Learning (Scikit-learn, anomaly detection)  
